@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AndroidGamePawel</string>
+    <string name="app_name">Lucky Good</string>
+    <string name="facebook_app_id">2545141545784120</string> <string name="fb_login_protocol_scheme">fb2545141545784120</string>
+
 </resources>
